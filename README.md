@@ -24,6 +24,9 @@ With the rapid growth of digital content, especially in the form of videos, ther
   - **Extractive Summarization** with SpaCy's NLP pipeline.
 - **Evaluation**: Compares both summarization techniques using ROUGE scores to assess quality.
 
+![Result of an Example](./example1.png)
+![ROUGE Result of an Example](./ROUGEexample1.png)
+
 ## 📋 Requirements
 
 - Python 3.7+
@@ -32,18 +35,18 @@ With the rapid growth of digital content, especially in the form of videos, ther
 - [YouTube Data API](https://developers.google.com/youtube/v3)
 
 ## 🚀 Models and Frameworks
+
 - **Google T5**: Transformer model for abstractive text summarization.
 - **SpaCy**: NLP library used for extractive summarization and preprocessing.
 - **BERT** (Optional): You can use BERT for additional processing steps if needed.
 
 ## 📈 Evaluation
+
 We use ROUGE scores to evaluate and compare the performance of the two summarization methods:
 
 - **Abstractive Summarization (T5)**: Generates human-like, rephrased summaries.
 - **Extractive Summarization (SpaCy)**: Extracts key sentences directly from the text.
 
 ## 📧 Contact
-For questions or feedback, reach out via [LinkedIn](https://www.linkedin.com/in/muhammad-rifat-islam-9ab376230/) or email at rifat010bushral@gmail.com.
 
-
-
+For questions or feedback, reach out via [LinkedIn](https://www.linkedin.com/in/muhammad-rifat-islam-9ab376230/) or email at <rifat010bushral@gmail.com>.
